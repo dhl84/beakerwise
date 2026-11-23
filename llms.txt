@@ -1,6 +1,6 @@
 # BeakerWise: The Real Science Lab
 
-> Science practicals on a virtual lab bench. In mixed reality the bench sits on your real table, or work in a virtual science room. 104 experiments in biology, chemistry and physics, from melting ice to titrations and flame colours. Most results are calculated from real, sourced data, and the app says when a number is a good guess. Four reading depths, from short and simple to expert detail. For ages 10 and up. No ads, no chat, no accounts, no in-app purchases and no personal data collected.
+> Science practicals on a virtual lab bench. In mixed reality the bench sits on your real table, or work in a virtual science room. 104 experiments in biology, chemistry and physics, from melting ice to titrations and flame colours. Most results are calculated from real, sourced data, and the app says when a number is a good guess. Four reading depths, from short and simple to expert detail. For ages 10 and up. No ads, no chat, no accounts and no in-app purchases.
 
 - Price: USD 3.99 in the US store. The store shows the price for your country.
 - Headset: Meta Quest 3
@@ -12,7 +12,8 @@
 - Players: Single player
 - Comfort: Comfortable
 - Language: English (UK)
-- Ads, chat and in-app purchases: None. The app collects no personal data.
+- Ads, chat and in-app purchases: None
+- Data: The app collects the user ID and the age group of your Meta account. Both stay on the headset, and so does your progress. The privacy policy has the details.
 - Developer: dav3studios
 
 ## Features
@@ -25,7 +26,7 @@
 - A computer-generated voice that reads aloud, with subtitles
 - Magnifiers for fine readings, and results in tables and graphs
 - Seated play, with a panel button for every action
-- No ads, no chat, no accounts, no in-app purchases and no personal data collected
+- No ads, no chat, no accounts and no in-app purchases
 
 ## Links
 
