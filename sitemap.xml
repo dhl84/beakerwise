@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://dhl84.github.io/beakerwise/</loc></url>
-  <url><loc>https://dhl84.github.io/beakerwise/privacy.html</loc></url>
-  <url><loc>https://dhl84.github.io/beakerwise/credits.html</loc></url>
-  <url><loc>https://dhl84.github.io/beakerwise/support.html</loc></url>
-  <url><loc>https://dhl84.github.io/beakerwise/terms.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url><loc>https://dhl84.github.io/beakerwise/</loc><lastmod>2026-11-25</lastmod><image:image><image:loc>https://dhl84.github.io/beakerwise/pictures/cover.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/beakerwise/pictures/1.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/beakerwise/pictures/2.png</image:loc></image:image><image:image><image:loc>https://dhl84.github.io/beakerwise/pictures/3.png</image:loc></image:image><video:video><video:thumbnail_loc>https://dhl84.github.io/beakerwise/video/trailer.jpg</video:thumbnail_loc><video:title>BeakerWise: The Real Science Lab trailer</video:title><video:description>Science practicals on a virtual lab bench. In mixed reality the bench sits on your real table, or work in a virtual science room. 104 experiments in biology, chemistry and physics, from melting ice to titrations and flame colours. Most results are calculated from real, sourced data, and the app says when a number is a good guess. Four reading depths, from short and simple to expert detail. For ages 10 and up. No ads, no chat, no accounts and no in-app purchases.</video:description><video:content_loc>https://dhl84.github.io/beakerwise/video/trailer.mp4</video:content_loc><video:duration>48</video:duration><video:publication_date>2026-11-25</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video></url>
+  <url><loc>https://dhl84.github.io/beakerwise/privacy.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/beakerwise/credits.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/beakerwise/support.html</loc><lastmod>2026-11-25</lastmod></url>
+  <url><loc>https://dhl84.github.io/beakerwise/terms.html</loc><lastmod>2026-11-25</lastmod></url>
 </urlset>
